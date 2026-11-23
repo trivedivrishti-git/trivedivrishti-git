@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**trivedivrishti-git/trivedivrishti-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vrishti Trivedi! 👋
 
-Here are some ideas to get you started:
+🎓 BCA Student | AI & Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in Artificial Intelligence, Data Science,
+Machine Learning and Data Analytics.
+
+### 💻 Technical Skills
+- Python
+- SQL
+- R
+- Pandas & NumPy
+- Matplotlib
+- Power BI
+- Machine Learning
+- Scikit-learn
+
+### 🚀 My Projects
+- AI-Powered Food Recommendation System
+- Local Llama-Powered Conversational AI Assistant
+
+### 📚 Certifications
+- Python for Data Science – IBM
+- Data Science & Analytics – HP
+
+### 🎯 Career Goal
+Looking for opportunities to learn, grow and contribute
+as an AI & Data Analytics Intern.
+
+### 📫 Connect With Me
+- GitHub: https://github.com/trivedivrishti-git
