@@ -3,8 +3,8 @@
 
 🎓 BCA Student | AI & Data Analytics
 
-I'm interested in Artificial Intelligence, Data Science,
-Machine Learning and Data Analytics.
+I'm interested in Artificial Intelligence, Machine Learning, 
+Data Science and Data Analytics.
 
 ### 💻 Technical Skills
 - Python
@@ -18,7 +18,7 @@ Machine Learning and Data Analytics.
 
 ### 🚀 My Projects
 - AI-Powered Food Recommendation System
-- Local Llama-Powered Conversational AI Assistant
+- Llama-Powered Conversational AI Assistant
 
 ### 📚 Certifications
 - Python for Data Science – IBM
@@ -26,7 +26,7 @@ Machine Learning and Data Analytics.
 
 ### 🎯 Career Goal
 Looking for opportunities to learn, grow and contribute
-as an AI & Data Analytics Intern.
+as an AI & ML Intern.
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/trivedivrishti-git
